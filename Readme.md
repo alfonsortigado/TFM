@@ -1,7 +1,7 @@
 # Computer-aided drug design towards novel TRPM8 channel modulators
-Student: Alfonso Ortigado López
-Academic tutor: Maria Garrido Arandía
-Tutor: Mercedes Martín Martínez
+- Student: Alfonso Ortigado López
+- Academic tutor: Maria Garrido Arandía
+- Tutor: Mercedes Martín Martínez
 
 This GitHub repository contains the codes used for the development of the Master Thesis in Computational Biology in the academic year 2022-23, carried out at the IQM centre of the CSIC. Two main blocks have been included in this repository:
 -	Automation of the analysis of the results of docking studies.
