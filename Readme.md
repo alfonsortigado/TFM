@@ -129,7 +129,7 @@ Upon execution, the program will request the location of the mentioned folder. O
 
 
 
-### Script RenameInsideMAE22-04-23.py
+### Script RenameInsideMAE2023.py
 
 The script used by the group to carry out the molecular docking analysis (IFD) produces a series of files with extension ".mae", which correspond to the representative poses obtained during the analysis. These files are named using the convention "Compound + _ + PoseNumber". The problem is that the modification of the file title is only reflected in the file name and is not saved when imported into the Schrödinger Maestro program, which causes the loss of the representative pose number. The aim is to implement an internal modification to each file to ensure that the correct name is retained.
 
