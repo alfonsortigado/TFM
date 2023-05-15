@@ -9,7 +9,7 @@ This GitHub repository contains the codes used for the development of the Master
 Each block has been developed using different programming techniques and tools for its implementation and analysis of results.
 
 ## Automation of the analysis of the results of docking studies.
-### Script Overview.py:
+### Script Overview2023.py:
 A thorough analysis of the induced fit docking studies (IFD) was carried out using scripts previously developed by the group. However, these scripts were not working properly, a careful inspection of the code showed that it was due to an update of Python packages and of the output files from the IFD studies. Therefore, we proceeded to updated the existing code in order to allow for its implementation in the docking studies. 
 
 The IFD studies provide a series of ligand-TRPM8 complexes, with different location, orientations and conformations of the ligand in the orthosteric site of the protein, which is known as  poses.
