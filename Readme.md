@@ -83,7 +83,7 @@ Upon execution, the program will ask for the location of the mentioned folder. O
 
 ### Script FindIFDScore2023.py:
 
-IFD studies provided a series of protein-ligand complex ordered by the IFDscore. However, in the results file obtained from the group's scripts, Result.csv, there is no information regarding the score of each pose. The aim of this FindIFDScore2023.py code is, to add to the output "Overview.csv", generated in the previous section, the score assigned to each cluster representative pose o and to order the clusters according to the value added.
+IFD studies provided a series of protein-ligand complex ordered by the IFDscore. However, in the results file obtained from the group's scripts, Result.csv, there is no information regarding the score of each pose. The aim of this FindIFDScore2023.py code is, to add to the output "Overview.csv", generated in the previous section, the score assigned to each cluster representative pose and to order the clusters according to the value added.
 
 This code requires a file containing the information of the IFDscore for all the protein-ligand complex. To this end from Maestro, the visual interface of the Schrodinger suite of programs, it is necessary to export the IFD_spreadsheet (Table 3). The path to download this file is as follows, within the Maestro interface: 
 open the Project Table section, go to the 'Data' > 'Export' > 'Spreadsheet...' section. 
